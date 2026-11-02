@@ -1,0 +1,8 @@
+{
+  "name": "Remix MealLoop — Campus Food Ordering \u0026 Student Pickup",
+  "description": "Campus food-ordering platform for central canteens. Student pickup with single-use QR verification, progressive rescue meals, AI meal assistant, group deals, and NGO food recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

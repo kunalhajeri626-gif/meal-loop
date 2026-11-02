@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="16" fill="#0B1220"/>
+  <circle cx="32" cy="32" r="28" stroke="#22C55E" stroke-width="2" stroke-opacity="0.3"/>
+  <!-- MealLoop Infinity Food Loop -->
+  <path d="M23 24C18.5817 24 15 27.5817 15 32C15 36.4183 18.5817 40 23 40C28 40 31 32 32 32C33 32 36 40 41 40C45.4183 40 49 36.4183 49 32C49 27.5817 45.4183 24 41 24C36 24 33 32 32 32C31 32 28 24 23 24Z" stroke="#22C55E" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Leaf / Freshness Accent -->
+  <path d="M38 18C38 18 43 19 44 24C40 24 38 21 38 18Z" fill="#FB923C"/>
+  <circle cx="32" cy="32" r="3" fill="#22C55E"/>
+</svg>
